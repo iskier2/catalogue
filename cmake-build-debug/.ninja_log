@@ -1,0 +1,27 @@
+# ninja log v5
+4	1345	7340103888356143	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+15	1579	7340103890880016	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+1347	1594	7340103890880016	CMakeFiles/catalogue_1__test.dir/test/test_catalogue.cpp.obj	4c2c5d44f7761f23
+22	4490	7340103920362549	CMakeFiles/catalogue_1__test.dir/test/main_gtest.cpp.obj	a053ce387f88835c
+1583	8452	7340103959915283	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	aa6f5bcb0fa5bae5
+1594	17128	7340104046480360	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	a5a183e5c5d024bb
+17132	22055	7340104096029338	lib/libgtest.a	b0c0bb2221528330
+22055	22612	7340104101607154	lib/libgmock.a	289fb479bdfa782
+13	804	7340107637501417	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+805	6105	7340107690402304	catalogue_1__test.exe	2a8580eb25ad18a8
+7	2448	7340113101448703	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+2449	7795	7340113154803871	catalogue_1__test.exe	2a8580eb25ad18a8
+10	727	7340113487705319	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+728	6080	7340113541137026	catalogue_1__test.exe	2a8580eb25ad18a8
+44	1694	7340153590549864	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+30	3838	7340153612023452	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+50	4019	7340153613828620	CMakeFiles/catalogue_1__test.dir/test/test_catalogue.cpp.obj	4c2c5d44f7761f23
+4019	9716	7340153670715646	catalogue_1__test.exe	2a8580eb25ad18a8
+11	2556	7340159842933935	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+18	3697	7340159854472689	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+15	1688	7340160343272504	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+28	3248	7340160358871292	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+6	2374	7340163400863106	CMakeFiles/catalogue_1__test.dir/src/catalogue.cpp.obj	7f87ec6c4094a984
+15	3665	7340163413760308	CMakeFiles/catalogue_1__test.dir/test/test_product.cpp.obj	282c646d55571441
+24	4041	7340163417508583	CMakeFiles/catalogue_1__test.dir/test/test_catalogue.cpp.obj	4c2c5d44f7761f23
+4042	9494	7340163471966635	catalogue_1__test.exe	2a8580eb25ad18a8
